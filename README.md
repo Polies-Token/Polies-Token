@@ -17,4 +17,4 @@
 <a href="https://www.brave" target="_blank"><img src="https://img.icons8.com/nolan/64/brave-web-browser.png"/></a>
 <a href="https://www.safari" target="_blank"><img src="https://img.icons8.com/nolan/64/safari.png"/></a>
 
-![animation](https://i.pinimg.com/originals/5d/27/09/5d27099922e5fa89a861563885703ace.gif)
+![animation](https://i.pinimg.com/originals/89/67/92/8967925b9d9141e88ced0a9020bdbc5e.gif)

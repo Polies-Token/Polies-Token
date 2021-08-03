@@ -10,10 +10,6 @@
 <a href="https://www.discord" target="_blank"><img src="https://img.icons8.com/nolan/64/discord.png"/></a>
 <a href="https://www.telegram" target="_blank"><img src="https://img.icons8.com/nolan/64/bbm-messenger.png"/></a>
 
-![animation](https://cdn.dribbble.com/users/192882/screenshots/4659605/dribbble-animation.gif)
-
-
-
 <h3>Wallet or Webwallet</h3>
 <a href="https://www.android" target="_blank"><img src="https://img.icons8.com/nolan/64/android-os.png"/></a>
 <a href="https://www.iphone" target="_blank"><img src="https://img.icons8.com/nolan/64/mac-os.png"/></a>
@@ -21,4 +17,4 @@
 <a href="https://www.brave" target="_blank"><img src="https://img.icons8.com/nolan/64/brave-web-browser.png"/></a>
 <a href="https://www.safari" target="_blank"><img src="https://img.icons8.com/nolan/64/safari.png"/></a>
 
-
+![animation](https://i.pinimg.com/originals/5d/27/09/5d27099922e5fa89a861563885703ace.gif)

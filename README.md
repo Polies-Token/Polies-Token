@@ -1,4 +1,21 @@
 <h3>Bem Vindo ao Repositorio Polies Token </h3>
+<center><h1>Polies Token </h1></center>
+<br>
+<p>Estamos trazendo liberdade para as suas economias, visando em médio e longo prazo Polies Token tem como consenço a sua comunidade decidindo os proximos passos,
+as novas tecnologias implantadas em sua rede de crescimento, com a diminuição em queimas do seu valor em quantia total, todas as vezes que houver uma transferencia, sendo assim todos que as possuem manteram seus tokens e o crescimento continuo transformará POLIES o melhor investimento.</p>
+  <br>
+<p>Como pode ver, a equipe está trabalhando para seguir todo conograma e assim, trazer a vocês que são nossa comunidade tão amada, as mais incriveis soluções digitais</>
+  <br>
+  <br>
+<h5>Detalhes do Token</h5>
+
+* Nome = Polies <br>
+* Sigla = POLS <br>
+* Rede = Smart Chain <br>
+* Max Supply = 50 Milhões
+
+
+
 <p>Aqui estão alguns detalhes sobre o projeto, confira os link´s a baixo</p>
 
 <!-- Link das Redes Sociais -->
